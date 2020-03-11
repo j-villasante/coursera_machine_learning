@@ -1,0 +1,4 @@
+lib/
+*.txt
+*.mat
+octave-workspace
